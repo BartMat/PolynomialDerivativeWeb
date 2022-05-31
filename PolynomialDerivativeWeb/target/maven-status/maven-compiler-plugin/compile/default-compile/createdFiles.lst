@@ -1,0 +1,9 @@
+pl\polsl\polynomialderivativeweb\JAXRSConfiguration.class
+pl\polsl\polynomialderivativeweb\servlets\Calculate.class
+pl\polsl\polynomialderivativeweb\servlets\History.class
+pl\polsl\polynomialderivativeweb\exceptions\NegatvieNumber.class
+pl\polsl\polynomialderivativeweb\model\Polynomial.class
+pl\polsl\polynomialderivativeweb\servlets\GetFactors.class
+pl\polsl\polynomialderivativeweb\servlets\Degree.class
+pl\polsl\polynomialderivativeweb\SampleResource.class
+pl\polsl\polynomialderivativeweb\exceptions\NotEnoughDataInArray.class
